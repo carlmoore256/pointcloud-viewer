@@ -1,0 +1,1 @@
+export type StatsPanelType = "fps" | "ms" | "mb" | "custom";
